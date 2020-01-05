@@ -1,0 +1,2 @@
+# DebiziumCDC
+mysql --->debizium--->eventshub
